@@ -27,7 +27,29 @@ What you waiting for now ?!.... Start Scratching !!!
 - Make Sure you save the project as sharable. Click on `Share` at the top to make the project sharable.
 - Copy link of the project and save it in the word file with Task1/ Task2/ Task3 as the heading.
 
-## Task 1 : DVD Theater ( Estimated Time : 5 mins ) 
+## Task 1 : Rack Like A PRO ( Estimated Time : 2 mins )
+`You are an intern at a pool table. Rack the balls before your boss fires you!`
+
+### Objective
+- Make the pool balls generate in the given pattern to solve this task
+
+### Project Setup:
+- Open this [link](https://scratch.mit.edu/projects/924475543/) IN A NEW TAB and click on `Remix`
+
+### Hints and Clues:
+- For pattern generation you can refer to the following website: [Pyramid-Printing-GeeksForGeeks](https://www.geeksforgeeks.org/programs-printing-pyramid-patterns-python/)
+- New Variables can be made by going to `Variables` option on the left
+- Some variables are already created for you. Try creating some more variables to solve the task
+- Relative Movement Positions on the X and Y are as follows:
+
+ ![](https://github.com/DarthBob112112/Scratch-Ye-Heads/blob/main/assets/Rack%20distance.png)
+
+### Optimal Solution: 
+
+![](https://github.com/DarthBob112112/Scratch-Ye-Heads/blob/main/assets/pattern_answer.gif)
+
+
+## Task 2 : DVD Theater ( Estimated Time : 5 mins ) 
 
 `Will the logo ever hit the corner? To find out you will have to make it bounce!`
 
@@ -46,7 +68,7 @@ What you waiting for now ?!.... Start Scratching !!!
 ![](https://github.com/DarthBob112112/Scratch-Ye-Heads/blob/main/assets/dvd_answer.gif)
 
 
-## Task 2 : Hole In Multiple ( Estimated Time : 35 mins )
+## Task 3 : Hole In Multiple ( Estimated Time : 35 mins )
 
 `John's friends challenged him to pot the ball in how many ever bounces they say. John, the WICKed, accepted the challenge. Now its up to you to help the numbskull get out of this situation`
 
@@ -57,38 +79,14 @@ What you waiting for now ?!.... Start Scratching !!!
 - Bonus: Return a list of all the angles which will solve the problem
 
 ### Project Setup:
-- Open this [link](https://scratch.mit.edu/projects/763982841/) IN A NEW TAB and click on `Remix`
+- Open this [link](https://scratch.mit.edu/projects/924516685) IN A NEW TAB and click on `Remix`
 <!--change project link -->
 ### Hints and Clues:
 - The better the solution, the more marks you get
 - Color plays an important role in `Sensing`
 - New Variables can be made by going to `Variables` option on the left
 - Some variables are already created for you. Try creating some more variables to solve the task
-- Bruteforcing is a possible solution!
 
 ### Optimal Solution: 
 ![](https://github.com/DarthBob112112/Scratch-Ye-Heads/blob/main/assets/Bounce.gif)
 
-## Task 3 : Practice For FIFA World Cup ( Estimated Time : 55 mins )
-`NOW IS ALL: Live your dream, Realise your destiny – and Own the moment`
-
-![](https://github.com/CodingWarrior33/Scratch-Ye-Heads/blob/a08a83549d199775c45466a3fc1cd9683162963b/Project_Deets/fifa.gif)
-
-
-### Objective
-- Help the midfield player achieve different configurations while passing.
-
-### Project Setup:
-- Open this [link](https://scratch.mit.edu/projects/763984802/) IN A NEW TAB and click on `Remix`
-
-### Hints and Clues:
-- List Functions can be seen in the `Variables` option on the left
-- Apply code snippets on the ball
-- Variable: `config`, denotes the formation in which the players pass. 
-- Lists: 1) `X1` `Y1` 2) `X2` `Y2` 3)  `X3` `Y3` 4) `Config_Name` 
-- The Lists `X1` `Y1` and others have to be used together as (x,y) to mark the ball's position.
-- Use if else branching to make the player say the configuration name using `Config_Name` list.  
-- Use if else branching on the `config` variable.
-
-### Optimal Solution: 
-![](https://github.com/CodingWarrior33/Scratch-Ye-Heads/blob/ce7a1c4cc563516e691b627bced2e2c9637e4941/Project_Deets/OPS3.gif)
