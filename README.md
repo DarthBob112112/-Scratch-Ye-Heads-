@@ -2,12 +2,12 @@
 
 Programming forcing to Scratch your Heads.....
 
-No worries we got you covered. In this event we will be learning basic programmming while developing
+No worries we got you covered. In this event we will be learning `"extremely beginner friendly"` programmming while developing
 mini-games.
 
 What you waiting for now ?!.... Start Scratching !!!
 
-![](https://github.com/CodingWarrior33/Scratch-Ye-Heads/blob/77201851bdef2d4f8e5b346123004ecb49dad540/Project_Deets/cat_sc.gif)
+![](https://github.com/DarthBob112112/Scratch-Ye-Heads/blob/main/assets/cat.gif)
 
 
 ## Setting Up the Environment ( Estimated Time : 5 mins )
@@ -25,7 +25,7 @@ What you waiting for now ?!.... Start Scratching !!!
 ## Output Format:
 - Make a word file locally and save as `Scratch`
 - Make Sure you save the project as sharable. Click on `Share` at the top to make the project sharable.
-- Copy link of the project and save it in the word file with Task1/ Task2/ Task3 as the heading.
+- Copy link of the project and save it in the word file with Task1/ Task2/ Task3/ BonusTask as the heading.
 
 ## Task 1 : Rack Like A PRO ( Estimated Time : 2 mins )
 `You are an intern at a pool table. Rack the balls before your boss fires you!`
@@ -80,7 +80,7 @@ What you waiting for now ?!.... Start Scratching !!!
 
 ### Project Setup:
 - Open this [link](https://scratch.mit.edu/projects/924516685) IN A NEW TAB and click on `Remix`
-<!--change project link -->
+
 ### Hints and Clues:
 - The better the solution, the more marks you get
 - Color plays an important role in `Sensing`
@@ -90,3 +90,30 @@ What you waiting for now ?!.... Start Scratching !!!
 ### Optimal Solution: 
 ![](https://github.com/DarthBob112112/Scratch-Ye-Heads/blob/main/assets/Bounce.gif)
 
+## Bonus Secret Task : Escape The Maze ( Estimated Time : 60 mins )
+
+`The Impossible Maze! Are you up for the task?!`
+
+### Objective  
+- Your player starts from the North gate and must reach the South gate
+- Bonus: The faster your solution, the more points
+
+### Project Setup:
+- Open this [link](https://scratch.mit.edu/projects/924395229) IN A NEW TAB and click on `Remix`
+
+### Hints and Clues:
+- Resources: [Maze Solving Algorithms](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- You can google different algorithms
+- You might need to fine-tune the sensor script(in Ball2) based on your approach.
+
+### Optimal Solution: 
+Correct:
+
+![](https://github.com/DarthBob112112/Scratch-Ye-Heads/blob/main/assets/incorrect.jpeg)
+
+Incorrect:
+
+![](https://github.com/DarthBob112112/Scratch-Ye-Heads/blob/main/assets/correct.jpeg)
+
+
+This problem has never been solved in the history of this event (as it has never been asked before)
